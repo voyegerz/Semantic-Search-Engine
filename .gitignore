@@ -1,0 +1,6 @@
+.env
+db_files/
+eng_subtitles_database.db
+main_search_engine.csv
+README.txt
+.venv/
