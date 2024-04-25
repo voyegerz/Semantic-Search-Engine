@@ -1,5 +1,6 @@
 .env
 db_files/
+db_files_new/
 eng_subtitles_database.db
 main_search_engine.csv
 README.txt
